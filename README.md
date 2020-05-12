@@ -1,6 +1,4 @@
-### 开箱即用的vue库
-
-# vue-pro
+# vue-pro  开箱即用的vue库
 
 ## Project setup
 ```
