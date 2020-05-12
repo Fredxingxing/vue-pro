@@ -1,5 +1,9 @@
 # vue-pro  开箱即用的vue库
 
+
+## 说明
+已集成 vuex vue-router
+
 ## Project setup
 ```
 npm install
