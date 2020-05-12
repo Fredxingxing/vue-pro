@@ -1,6 +1,6 @@
 ### 开箱即用的vue库
 
-# ccpcp-pinggu-web
+# vue-pro
 
 ## Project setup
 ```
